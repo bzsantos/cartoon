@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    border: 0;
+}
+
+h2 {
+    color: brown;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container-cartoon {
+    margin: 100px;   
+    border-radius: 15px;
+    background-color: rgb(250, 237, 222);
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 10px;  
+    
+}
+
+.main-cartoon {
+    margin: 50px;
+    border: 2px solid rgb(217, 199, 199);
+    border-radius: 15px;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+
+    background-color:rgb(200, 182, 182);
+
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.main-banner {
+    width: 300px;
+    height: 150px;
+    border-radius: 15px;
+}
+
+.form-cartoon {
+    display: flex;
+    flex-direction: column;
+    gap:5px;
+}
+
+
+.box-cartoon {
+    height: 21px;
+    width: 290px;
+    border-radius: 5px;
+    background-color: rgb(218, 224, 224);
+    font-size: 15px;
+    font-weight: bold;
+    color: brown;
+}
+
+.btn-cartoon {
+    height: 30px;
+    width: 147px;
+    border-radius: 5px;
+    background-color: rgb(218, 224, 224);
+    font-size: 18px;
+
+}
